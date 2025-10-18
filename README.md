@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![HHousen's Stats](https://github-readme-stats.vercel.app/api?username=HHousen&show_icons=true&count_private=true&title_color=c62828&icon_color=ef6c00)
-
 - 🏫 I'm currently a student at **Cornell University** studying **computer science**.
 - 🔭 I researched **classroom lecture summarization** using AI & Machine Learning in high school ([More Info](https://haydenhousen.com/projects/lecture2notes/))
 - 🌱 I'm generally interested in **NLP** ([HHousen/TransformerSum](https://github.com/HHousen/TransformerSum)), **Computer Vision** ([HHousen/object-discovery-pytorch](https://github.com/HHousen/object-discovery-pytorch)), **Deep Learning** (PyTorch), and **machine learning algorithms** (Scikit-Learn)
